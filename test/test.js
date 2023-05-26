@@ -1,4 +1,4 @@
-import healthIndicator from '../app';
+import healthIndicator from '../src/js/app';
 
 test.each([
     [{ name: 'char1', health: 90 }, 'healthy'],
